@@ -1,6 +1,6 @@
 {
     "functions": {
-      "api/**/*.ts": {
+      "backend/api/**/*.ts": {
         "runtime": "edge"
       }
     },
